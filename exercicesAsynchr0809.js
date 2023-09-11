@@ -108,7 +108,7 @@ document.addEventListener('click', function(event) {
     // on crée l'image
     let img = document.createElement("img");
     // on donne les coordonées de l'image
-    img.src = 'jeff2.png';
+    img.src = 'adrar_400x400.png';
     //on definit le point d'ajout de l'image et ces attributs
     img.style.position = 'absolute';
     img.style.height = '30%';
